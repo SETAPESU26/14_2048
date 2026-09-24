@@ -1,4 +1,4 @@
-# Scenario 02 — 2048
+# Scenario 14 — 2048
 
 A terminal 2048 implementation with directional movement and tile merging.
 
